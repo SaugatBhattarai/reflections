@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git is created to store logs and history of the git command , commit etc.
+
+
